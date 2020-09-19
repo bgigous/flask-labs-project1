@@ -44,4 +44,4 @@ def costumes():
         },
     ]
 
-    return f"Check out my costumes!"
+    return "Check out my costumes!"
