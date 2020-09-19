@@ -8,7 +8,7 @@ ___
 
 ## Instructions
 
-(You can copy `app.py` from the last lab once you've already solved it.)
+(Before you start, you can copy `app.py` and `costumes.html` from the last lab once you've already solved it.)
 
 Similar to how you inherited your grandfather's itchy sweaters against your own will (thanks gramps), in this lab you'll 1) be using template inheritance to prevent code reuse. Then once you have that, you'll 2) improve the look of the pages with Bootstrap.
 
