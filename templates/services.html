@@ -1,6 +1,6 @@
 <head>
-    <title>Emily's Dog Costumes - My Costumes</title>
-    <meta name="description" content="Emily's Dog Costumes">
+    <title>Emily's Dog Costumes - Services</title>
+    <meta name="description" content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
     <link rel="stylesheet" href="static/style.css">
 </head>
 
@@ -16,15 +16,9 @@
         </nav>
     </header>
     <section id="pageContent">
-        <main role="main">
-            {% for costume in costumes_list %}
-            <article>
-                <h2>{{ costume['header'] }}</h2>
-                <img class="costume" src="{{ costume['image'] }}">
-                <p>{{ costume['body'] }}</p>
-            </article>
-            {% endfor %}
-        </main>
+        <p>I offer custom dog costumes for your precious pooch, and in-home consultations. To, ya know, get measurements for your dog.</p>
+
+        <p>We will work together to pick the perfect style to match your home's feng shui and, of course, your dog's personality.</p>
     </section>
     <footer>
         <p>&copy; All rights reserved to Emily, Dog Costume Extraordinaire</p>
