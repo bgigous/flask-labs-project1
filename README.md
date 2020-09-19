@@ -2,7 +2,7 @@
 
 Your eccentric friend Emily has really been making progress on her first Flask app! However, she still hasn't quite gotten the hang of using the power of Jinja to create flexible templates. She's been too busy with clients! And those costumes don't make themselves.
 
-She still isn't sure how to take a page already written in HTML and render it in her routes. Neither has she gotten around to learning how to use Jinja and control structures to render elements in pages dynamically.
+She still isn't sure how to take a page already written in HTML and render it in her routes. Neither has she gotten around to learning how to use Jinja and control structures to render elements in pages dynamically. In the meantime, she's been making her pages by previewing the HTML pages individually.
 
 You would be happy to help, but you don't want to do everything, you've got your own business to take care of. You say you'll get her off to a good start by getting her dog costumes rendered on the page.
 
