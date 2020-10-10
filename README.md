@@ -8,11 +8,14 @@ ___
 
 ## Instructions
 
+**Read everything before you start!**
+
 (Before you start, you can copy `app.py` and `costumes.html` from the last lab once you've already solved it.)
 
 Similar to how you inherited your grandfather's itchy sweaters against your own will (thanks gramps), in this lab you'll 1) be using template inheritance to prevent code reuse. Then once you have that, you'll 2) improve the look of the pages with Bootstrap.
 
 ### 1. Make a Base Template
+
 The first step is to make a base template. There's a lot you can reuse in these templates, but to make it easier for you, make a base template that defines blocks for:
 
 - `head`
