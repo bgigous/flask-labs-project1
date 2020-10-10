@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def welcome():
-    return "Welcome to Emily's Dog Costumes! See my <a href=\"/services\">services</a> and current line of <a href=\"/costumes\">costumes</a>"
+    return "Welcome to Emily's Dog Costumes! See my <a href=\"/services\">"\
+        "services</a> and current line of <a href=\"/costumes\">costumes</a>"
 
 
 @app.route('/services')
@@ -38,8 +39,8 @@ def costumes():
         },
         {
             'header': 'Witch',
-            'body': "Our dog Rose went with the husband out fishing, so I had to "\
-                    "dress the cat up in this bewitching costume.",
+            'body': "Our dog Rose went with the husband out fishing, so I had "\
+            "to dress the cat up in this bewitching costume.",
             'image': '/static/witch.jpg',
         },
     ]
