@@ -9,3 +9,14 @@ ___
 ## Instructions
 
 Your task is to get each of the routes working, meaning no errors.
+
+You should be able to access:
+
+- the index page at `localhost:5000/`
+- the services page at `localhost:5000/services`
+- costume pages at
+  - `localhost:5000/costumes/skeleton`
+  - `localhost:5000/costumes/dracula`
+  - and at least 100 more costume pages of whatever you can imagine
+
+Hint: No, you don't have to test that 102 different costume pages work, but you will have to test a few. ;)
